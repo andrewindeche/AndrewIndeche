@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewIndeche
 - 👀 I’m interested in ...Python,Angular,Javascript and ReactJs
-- 💞️ I’m looking to collaborate on ...projects
+- 💞️ I also love ...fitness,martial arts
 - 📫 How to reach me ...indecheandrew@gmail.com
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewindeche
 - 🚀  I’m a Full Stack Software Engineer based in Nairobi Kenya with over 3 years experience.
 - 🎯 NodeJs | Angular | React | Firebase | NextJs | NestJs
-- 🎯 Python | Django | Flask | PostgreSQL | Git
+- 🎯 Python | Django | Flask | Fast Api
 - 🎯 SQl | MongoDb
 - 📫 How to reach me ...indecheandrew@gmail.com
 

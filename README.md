@@ -3,7 +3,7 @@
 - 🎯 NodeJs | Angular | React | Firebase | NextJs | NestJs
 - 🎯 Python | Django | Flask | Fast Api
 - 🎯 SQl | MongoDb
-- 📫 How to reach me ...indecheandrew@gmail.com
+- 📫 How to reach me indecheandrew@gmail.com
 
 <!---
 andrewindechemain/andrewindechemain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

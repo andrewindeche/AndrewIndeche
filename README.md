@@ -3,6 +3,7 @@
 - 🎯 NodeJs | Angular | React | Firebase | NextJs | NestJs
 - 🎯 Python | Django | Flask | Fast Api
 - 🎯 SQl | MongoDb
+- 🎯 Docker | Kubernetes 
 - 📫 How to reach me indecheandrew@gmail.com
 
 <!---

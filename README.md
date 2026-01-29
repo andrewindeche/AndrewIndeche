@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @andrewindeche
 - 🚀  I’m a Software Engineer based in Nairobi Kenya.
-- 🎯 NodeJs | Angular | React | React Native | NextJs | NestJs 
-- 🎯 Python | Django | Flask | Fast Api
-- 🎯 C# | DotNet
+- 🎯 NodeJs | Python | C#
 - 🎯 SQl | MongoDb
 - 🎯 Docker | Kubernetes 
 - 📫 How to reach me indecheandrew@gmail.com
